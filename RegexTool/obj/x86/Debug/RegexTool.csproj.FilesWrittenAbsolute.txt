@@ -1,0 +1,6 @@
+/home/ur/Developer/CSharp/RegexTool/RegexTool/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ur/Developer/CSharp/RegexTool/RegexTool/obj/x86/Debug/RegexTool.gtk-gui.gui.stetic
+/home/ur/Developer/CSharp/RegexTool/RegexTool/bin/Debug/RegexTool.exe.mdb
+/home/ur/Developer/CSharp/RegexTool/RegexTool/bin/Debug/RegexTool.exe
+/home/ur/Developer/CSharp/RegexTool/RegexTool/obj/x86/Debug/RegexTool.exe
+/home/ur/Developer/CSharp/RegexTool/RegexTool/obj/x86/Debug/RegexTool.exe.mdb
